@@ -15,4 +15,9 @@ class test {
         System.out.println(-1 >>> 3); // 536870911
         System.out.println(3 >> 3); // 0
     }
+
+    public static void method1() {
+        int[] arr1 = { 1, 2, 3, 4 };
+
+    }
 }
